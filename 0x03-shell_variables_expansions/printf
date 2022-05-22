@@ -1,0 +1,1 @@
+printf "%.2f\n" $NUM %.2f\n
